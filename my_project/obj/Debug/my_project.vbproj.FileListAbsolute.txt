@@ -1,0 +1,12 @@
+C:\Users\Fath\Source\Repos\my_project\my_project\bin\Debug\my_project.exe.config
+C:\Users\Fath\Source\Repos\my_project\my_project\bin\Debug\my_project.exe
+C:\Users\Fath\Source\Repos\my_project\my_project\bin\Debug\my_project.pdb
+C:\Users\Fath\Source\Repos\my_project\my_project\bin\Debug\my_project.xml
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.vbprojAssemblyReference.cache
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.Form1.resources
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.Form3.resources
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.Resources.resources
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.vbproj.GenerateResource.cache
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.exe
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.xml
+C:\Users\Fath\Source\Repos\my_project\my_project\obj\Debug\my_project.pdb
